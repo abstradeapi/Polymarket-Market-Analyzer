@@ -33,6 +33,8 @@ Grab this quickly!
 - 🧠 **Smart Analytics**: Automated calculation of key metrics like VWAP, momentum, volatility, and more
 - 📊 **Multi-Dimensional Analysis**: Over 20+ different visualization types for comprehensive market understanding
 
+<img width="1638" height="615" alt="image" src="https://github.com/user-attachments/assets/8de116e5-a196-4845-ae75-af60d1f717e0" />
+
 ---
 
 ## ✨ Features
@@ -45,11 +47,19 @@ Grab this quickly!
 - Time-series aggregation (seconds/minutes)
 - Volatility detection and highlighting
 
+<img width="1642" height="582" alt="image" src="https://github.com/user-attachments/assets/3f993696-918b-4bb5-ba49-0381ff21f4be" />
+
+<img width="1648" height="475" alt="image" src="https://github.com/user-attachments/assets/ba6f1593-7a40-41db-9106-952cabe75f65" />
+
+
 #### **2. Trade Flow Analytics**
 - Volume distribution across time buckets
 - Buy vs Sell pressure analysis
 - Cumulative trade flow tracking
 - Price vs trade size correlation
+
+<img width="1640" height="575" alt="image" src="https://github.com/user-attachments/assets/e561f059-f6e3-4c86-9b76-9f62851ce7d5" />
+
 
 #### **3. Advanced Scatter Visualizations**
 - 6+ gradient-based scatter plots including:
@@ -58,12 +68,21 @@ Grab this quickly!
   - **Density Heatmaps**: Identify key price-volume clusters
   - **Sequential Flow**: Dynamic sizing showing trade progression
 
+<img width="1648" height="472" alt="image" src="https://github.com/user-attachments/assets/d9575d7c-d1ed-43d4-ad3a-e8f0fffb47a0" />
+
+<img width="1645" height="467" alt="image" src="https://github.com/user-attachments/assets/d43e84c5-ccb3-4956-9f7d-807883108062" />
+
+
 #### **4. Outcome-Specific Analytics**
 - YES vs NO outcome tracking
 - Price volatility with moving averages
 - Trade velocity analysis
 - VWAP (Volume Weighted Average Price) visualization
 - Radial time-price distribution
+
+
+<img width="1645" height="468" alt="image" src="https://github.com/user-attachments/assets/add5dbb6-ab36-4c3a-a9ed-747292b9ac59" />
+
 
 ### 👤 Trader-Level Analytics
 
@@ -73,11 +92,20 @@ Grab this quickly!
 - Buy/Sell ratio breakdown
 - Outcome preference visualization
 
+
+<img width="1638" height="577" alt="image" src="https://github.com/user-attachments/assets/5d5b0178-a72a-4dbe-bb1d-6b08c88e2d6c" />
+
+
+
+
 #### **2. Execution Analysis**
 - Trade timing and frequency
 - Entry price evolution
 - Average entry price tracking
 - Position value over time
+
+<img width="1642" height="367" alt="image" src="https://github.com/user-attachments/assets/d791da25-114e-4aa9-9e74-e74f6e51db5c" />
+
 
 #### **3. Risk Assessment**
 - Volume-weighted price distribution
@@ -85,11 +113,17 @@ Grab this quickly!
 - Risk scoring visualization
 - Trade adjustment patterns
 
+<img width="1642" height="312" alt="image" src="https://github.com/user-attachments/assets/1da73970-c4f1-4829-bdfe-ce3822763c56" />
+
+
 #### **4. Behavioral Insights**
 - Hourly trading activity patterns
 - Price change vs size change correlation
 - Position sizing consistency
 - Sequential trade flow analysis
+
+
+<img width="1642" height="313" alt="image" src="https://github.com/user-attachments/assets/3434cc4b-104d-4294-9078-103f72f5c655" />
 
 ---
 
