@@ -51,6 +51,15 @@ These above 3 types of analysis if very important if you wanna build you custom 
 [Polymarket-Market-Analyzer](https://www.notion.so/Polymarket-Market-Analyzer-2fb4b3f477798077b659efc89970ccb9)
 
 
+
+
+<img width="1567" height="612" alt="image" src="https://github.com/user-attachments/assets/fe6f8cef-6972-46d9-b88f-bfc7b31f9477" />
+
+<img width="1562" height="837" alt="image" src="https://github.com/user-attachments/assets/5991ec10-1369-4196-b62f-14d6a7b38254" />
+
+<img width="1561" height="773" alt="image" src="https://github.com/user-attachments/assets/bdea75c7-053c-48fa-8c2f-65f3c56e0fa0" />
+
+
 ## 📞 Support
 
 In case of any doubt or issue reach out to here:
