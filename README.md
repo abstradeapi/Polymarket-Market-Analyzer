@@ -20,14 +20,14 @@
 
 The **Polymarket Advanced Analytics Toolkit** is a powerful Python-based analysis sets of scripts that provides traders, researchers, and market enthusiasts with deep insights into Polymarket prediction markets. 
 
-Are you not a developer and want developer level control then this is a goldmine for you, stop struggling with ChatGPT or ClaudeAI burning $ in LLM tokens fixing its outputs.
-Grab this quickly!
+Whether you’re a developer or not, if you want developer-level control, this is a what you might be looking for.
+Stop struggling with ChatGPT or Claude AI and burning cost on LLM tokens just to fix their outputs or to make it run.
 
 
 ### Why Use This Toolkit?
 
 - 🔍 **Deep Market Analysis**: Understand market dynamics, price movements, and trading patterns
-- 📈 **Trader Strategy Insights**: Analyze individual trader behavior and decision-making patterns
+- 📈 **Trader Strategy Insights**: Analyze individual trader or bot behavior and decision-making patterns
 - 🎨 **Beautiful Visualizations**: Modern, gradient-based charts with professional styling
 - ⚡ **Real-Time Data**: Direct integration with Polymarket's official APIs
 - 🧠 **Smart Analytics**: Automated calculation of key metrics like VWAP, momentum, volatility, and more
@@ -36,6 +36,28 @@ Grab this quickly!
 <img width="1638" height="615" alt="image" src="https://github.com/user-attachments/assets/8de116e5-a196-4845-ae75-af60d1f717e0" />
 
 ---
+
+## 🔬 Analysis Types
+- **Market Analysis**  [ Analyze any market ]
+- **Trade Analytics**   [ Analyze trades on specific market ]
+- **Trader-Specific Analysis** [ Analyze  any Specific trader/Bot strategy ]
+
+These above 3 types of analysis if very important if you wanna build you custom bot or to deeply understand the strategy behind any bot or advanced trader, Its never easy as **buying ( YES + NO < 1.0 ) or selling ( YES + NO > 1.0 ).**
+
+> **Decode crack** the strategy with the help of this toolkit.
+
+**Read more on code details about it here:**
+
+[Polymarket-Market-Analyzer](https://www.notion.so/Polymarket-Market-Analyzer-2fb4b3f477798077b659efc89970ccb9)
+
+
+## 📞 Support
+
+In case of any doubt or issue reach out to here:
+
+- **Issues**: [GitHub Issues](#)
+- **TG**:  t.me/dexlenai
+
 
 ## ✨ Features
 
@@ -698,22 +720,6 @@ This toolkit is for **educational and research purposes only**.
 - Past performance does not indicate future results
 
 Polymarket trading involves risk. Only trade with funds you can afford to lose.
-
----
-
-## 🙏 Acknowledgments
-
-- **Polymarket** for providing public APIs
-- **Matplotlib** community for excellent visualization tools
-- **NumPy/Pandas** for data processing capabilities
-- Contributors and users providing feedback
-
----
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](#)
-- **TG**:  [t.me/dexlenai](t.me/dexlenai) 
 
 --- 
 
